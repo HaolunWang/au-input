@@ -6,7 +6,7 @@
   "module": "./au-input.es5.js",
   "es2015": "./au-input.js",
   "typings": "./au-input.d.ts",
-  "author": "",
+  "author": "haolunwang",
   "license": "MIT",
   "repository": {},
   "engines": {
