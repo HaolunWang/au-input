@@ -201,7 +201,8 @@ packages: {
 
 [MIT](https://opensource.org/licenses/MIT)
 
+# Notes for new npm users
 
-
-
-
+1. Remember to login with `npm login` before you publish or update your package.
+2. You can use `npm adduser` to add a new user. (Reference: [Stackoverflow Resource](https://stackoverflow.com/questions/39115101/getting-404-when-attempting-to-publish-new-package-to-npm))
+3. If npm version update to specific version: `npm version ${newVersion}`.
