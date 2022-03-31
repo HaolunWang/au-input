@@ -42,4 +42,7 @@ export class AppComponent {
 
   }
 
+//   The au-input folder actually is a system js application where all components are being correctly displayed
+//   This library can not only be used by Angular CLI applications, but also can be used by system js based applications
+
 }
