@@ -1,12 +1,12 @@
 {
-  "name": "au-input",
-  "version": "1.3.1",
-  "description": "au-input",
+  "name": "au-input-demo",
+  "version": "1.0.0",
+  "description": "au-input-demo",
   "main": "./au-input.umd.js",
   "module": "./au-input.es5.js",
   "es2015": "./au-input.js",
   "typings": "./au-input.d.ts",
-  "author": "haolunwang",
+  "author": "",
   "license": "MIT",
   "repository": {},
   "engines": {

@@ -14,7 +14,7 @@
     "annotateForClosureCompiler": true,
     "strictMetadataEmit": true,
     "skipTemplateCodegen": true,
-    "flatModuleOutFile": "au-input.js",
+    "flatModuleOutFile": "au-input-demo.js",
     "flatModuleId": "au-input",
     "genDir": "../../out-tsc/lib-gen-dir/"
   }
