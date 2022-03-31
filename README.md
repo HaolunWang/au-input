@@ -31,13 +31,13 @@ Here is what the inputs with the icons look like on screen:
 This is how to install the components:
 
 ```bash
-npm install au-input
+npm install au-input-demo
 ```
 
 or 
 
 ```bash
-yarn add au-input
+yarn add au-input-demo
 ```
 
 
@@ -149,7 +149,7 @@ npm link
 On another folder on the same machine where we have for example a running Angular CLI, we then do:
 
 ```bash
-npm link au-input
+npm link au-input-demo
 ```
 
 
